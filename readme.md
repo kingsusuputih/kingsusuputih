@@ -1,9 +1,9 @@
 <ul>
     <li>🌱 <b>I’m currently learning</b>: NextJs</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper.</li>
+    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper like NextJs or ReactJs.</li>
     <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/kingsusuputih/kingsusuputih/issues">Here</a>.</li>
     <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
-    <li>😄 <b>Fun fact</b>: I love otomotif, anime, and gaming.</li>
+    <li>😄 <b>Fun fact</b>: I love otomotif, night sky & PHP enthusiast.</li>
     <li>⚡ <b>My coding activity</b>: <a href="https://github.com/kingsusuputih">Here</a>.</li>
 </ul>
 
