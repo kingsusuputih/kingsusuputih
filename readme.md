@@ -1,7 +1,7 @@
 # 💫 About Me  
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <ul>
         <li>🏠 From <b>Indonesia</b></li>
         <li>🔥 Passionate <b>Fullstack Developer</b></li>
@@ -10,16 +10,13 @@
         <li>💡 Always learning new things</li>
       </ul>
     </td>
-    <td align="center">
-      <img src="https://media1.tenor.com/m/-_B1vBfy-00AAAAd/hacker-man-hacker.gif" width="300px"/>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/kingsusuputih/kingsusuputih/main/hacker-man-hacker.gif" width="300px"/>
     </td>
   </tr>
 </table>
 
-![image](https://github.com/user-attachments/assets/53f60bea-6ef5-4edb-9f37-f6794308a35a)
-
-
-## 🌐Socials
+# 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/susuputih#2869) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susuputih.webp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsa-aditya-09aa91179) 
 
 # 💻Tech Stack
@@ -42,20 +39,23 @@
 </p>
 
 
-## 🏆 GitHub Trophies  
+# 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=kingsusuputih&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
-### 🧑‍💻 Random Cyber Quote  
-<p align="center">
-  <img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🧑‍💻 Random Cyber Quote</h3>
+      <img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=radical" />
+    </td>
+    <td align="center">
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
