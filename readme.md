@@ -1,32 +1,32 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kingsusuputih/kingsusuputih/main/konosuba-anime.gif"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
-</p>
-
----
+```
+██╗    ██╗███████╗     █████╗ ██████╗ ███████╗    ████████╗██╗  ██╗███████╗    ██╗  ██╗██╗███╗   ██╗ ██████╗ 
+██║    ██║██╔════╝    ██╔══██╗██╔══██╗██╔════╝    ╚══██╔══╝██║  ██║██╔════╝    ██║ ██╔╝██║████╗  ██║██╔════╝ 
+██║ █╗ ██║█████╗      ███████║██████╔╝█████╗         ██║   ███████║█████╗      █████╔╝ ██║██╔██╗ ██║██║  ███╗
+██║███╗██║██╔══╝      ██╔══██║██╔══██╗██╔══╝         ██║   ██╔══██║██╔══╝      ██╔═██╗ ██║██║╚██╗██║██║   ██║
+╚███╔███╔╝███████╗    ██║  ██║██║  ██║███████╗       ██║   ██║  ██║███████╗    ██║  ██╗██║██║ ╚████║╚██████╔╝
+ ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+```
 
 # 💫 About Me  
-<table width="100%" border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li>🔥 <b>Koding Adalah Seni, Ngopi & Udud Adalah Ibadah!</b> ☕🚬</li>
-        <li>💻 <b>Fullstack Developer - Laravel, Next.js, Tailwind</b> 🚀</li>
-        <li>🏎️ <b>Pecinta Otomotif & Tobrut Enthusiast</b> 🔥</li>
-        <li>🎮 <b>Gamer & Pengabdi FPS</b> 🎯</li>
-        <li>📚 <b>Belajar Terus, Ngeluh Jangan!</b> 🤓</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/kingsusuputih/kingsusuputih/main/hacker-man-hacker.gif"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%FFF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
+</p>
+
+<img align="right" width="500" src="https://raw.githubusercontent.com/kingsusuputih/kingsusuputih/main/hacker-man-hacker.gif"/>
+  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kingsusuputih&style=for-the-badge&color=blue" alt="Visitor Count" />
+</p>
+<ul>
+  <li>🔥 <b>Koding Adalah Seni, Ngopi & Udud Adalah Ibadah!</b> ☕🚬</li>
+  <li>💻 <b>Fullstack Developer - Laravel, Next.js, Tailwind</b> 🚀</li>
+  <li>🏎️ <b>Pecinta Otomotif & Tobrut Enthusiast</b> 🔥</li>
+  <li>🎮 <b>Gamer & Pengabdi FPS</b> 🎯</li>
+  <li>📚 <b>Belajar Terus, Ngeluh Jangan!</b> 🤓</li>
+</ul>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsusuputih&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</p>
 
 # 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susuputih.webp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsa-aditya-09aa91179) 
@@ -37,23 +37,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kingsusuputih&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingsusuputih&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsusuputih&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
----
-
+# 💬 Kata-Kata Hari Ini
 <p align="center">
   <img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=radical" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-
-
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingsusuputih&style=for-the-badge&color=blue" alt="Visitor Count" />
+  
+  ![snake svg](https://github.com/kingsusuputih/kingsusuputih/blob/output/github-contribution-grid-snake.svg)
 </p>
