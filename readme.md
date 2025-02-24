@@ -1,30 +1,62 @@
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kingsusuputih&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+<h1 align="center">
+  <img src="https://media.tenor.com/N4f3k83z18wAAAAC/anime-welcome.gif" width="50">
+  Hey there, I'm Kingsusuputih!
+</h1>
 
-<ul>
-    <li>🌱 <b>I’m currently learning</b>: NextJs</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper like NextJs or ReactJs.</li>
-    <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/kingsusuputih/kingsusuputih/issues">Here</a>.</li>
-    <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
-    <li>😄 <b>Fun fact</b>: I love otomotif, night sky & PHP enthusiast.</li>
-    <li>⚡ <b>My coding activity</b>: <a href="https://github.com/kingsusuputih">Here</a>.</li>
-</ul>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsusuputih&layout=compact)
+---
 
-## Programming Skills
+### 👨‍💻 **About Me**
+- 🏠 From **Indonesia**
+- 🔥 Passionate **Fullstack Developer**
+- 🛠️ Main Stack: **Laravel, Next.js, Tailwind**
+- 🎮 Loves **Gaming, Anime, and Automotives**
+- 💡 Always learning new things
 
-- Frontend Development
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+### 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,react,vue,js,ts,php,html,css,mysql,postgres,git,github,vscode" />
+</p>
 
-- Backend Development
+---
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Codeigniter](https://img.shields.io/badge/codeigniter-%23E34F26.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kingsusuputih&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kingsusuputih&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsusuputih&layout=compact&theme=tokyonight" />
+</p>
 
-- Databases, Tools, and Others
+---
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔗 **Let's Connect!**
+<p align="center">
+  <a href="https://github.com/kingsusuputih"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kingsusuputih"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kingsusuputih"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-## My Contacts
+---
 
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=harsa.aditya.ha@gmail.com" target="_blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/harsa-aditya-09aa91179/" target="_blank">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://github.com/kingsusuputih" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> 
+### 🔥 **Fun Section**
+<p align="center">
+  <img src="https://media.tenor.com/UW8wYpA4OAYAAAAC/kaguya-sama.gif" width="250">
+  <img src="https://media.tenor.com/5LuZl5WZRewAAAAC/gojo.gif" width="250">
+  <img src="https://media.tenor.com/wU3adUmRM6sAAAAC/anime-hack.gif" width="250">
+</p>
+
+---
+
+### 📈 **Visitor Counter**
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kingsusuputih&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" />
+</p>
+
+---
