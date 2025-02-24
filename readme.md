@@ -43,6 +43,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
 <p align="center">
   
   ![snake svg](https://github.com/kingsusuputih/kingsusuputih/blob/output/github-contribution-grid-snake.svg)
