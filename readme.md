@@ -1,9 +1,23 @@
-# 💫About Me :
-- 🏠 From **Indonesia**
-- 🔥 Passionate **Fullstack Developer**
-- 🛠️ Main Stack: **Laravel, Next.js, Tailwind**
-- 🎮 Loves **Gaming, Anime, and Automotives**
-- 💡 Always learning new things
+# 💫 About Me  
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>🏠 From <b>Indonesia</b></li>
+        <li>🔥 Passionate <b>Fullstack Developer</b></li>
+        <li>🛠️ Main Stack: <b>Laravel, Next.js, Tailwind</b></li>
+        <li>🎮 Loves <b>Gaming, Anime, and Automotives</b></li>
+        <li>💡 Always learning new things</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://media1.tenor.com/m/-_B1vBfy-00AAAAd/hacker-man-hacker.gif" width="300px"/>
+    </td>
+  </tr>
+</table>
+
+![image](https://github.com/user-attachments/assets/53f60bea-6ef5-4edb-9f37-f6794308a35a)
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/susuputih#2869) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susuputih.webp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsa-aditya-09aa91179) 
@@ -41,11 +55,6 @@
 ### ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-### 😂 Random Dev Meme  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" />
 </p>
 
 ---
