@@ -1,62 +1,49 @@
-<h1 align="center">
-  <img src="https://media.tenor.com/N4f3k83z18wAAAAC/anime-welcome.gif" width="50">
-  Hey there, I'm Kingsusuputih!
-</h1>
+## Hi there! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
-</p>
+I'm HAPSAK, a passionate developer based in Dreamland! I love exploring new technologies and creating impactful projects. My motto: 'Follow the leader.'
 
----
+## About Me
 
-### 👨‍💻 **About Me**
-- 🏠 From **Indonesia**
-- 🔥 Passionate **Fullstack Developer**
-- 🛠️ Main Stack: **Laravel, Next.js, Tailwind**
-- 🎮 Loves **Gaming, Anime, and Automotives**
-- 💡 Always learning new things
+I'm a developer with a focus on creating efficient and innovative solutions. Currently based in Dreamland, I have experience working on various projects, and I am always eager to learn and grow in my field.
 
----
+## Skills & Technologies
 
-### 🚀 **Tech Stack & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,react,vue,js,ts,php,html,css,mysql,postgres,git,github,vscode" />
-</p>
+php,html,css,js,vue,react,docker,github,laravel,mysql,tailwind,bootstrap
 
----
+## Top Projects
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kingsusuputih&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kingsusuputih&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsusuputih&layout=compact&theme=tokyonight" />
-</p>
+### [kingsusuputih](https://github.com/kingsusuputih/kingsusuputih)
+- **Description:** Personal project repository.
+- **Stars:** 0 | **Forks:** 0 | **Issues:** 0 | **Language:** N/A  
 
----
+### [You-Dont-Need-JavaScript](https://github.com/kingsusuputih/You-Dont-Need-JavaScript)
+- **Description:** CSS is powerful; you can do a lot of things without JS.
+- **Stars:** 0 | **Forks:** 0 | **Issues:** 0 | **Language:** N/A  
 
-### 🔗 **Let's Connect!**
-<p align="center">
-  <a href="https://github.com/kingsusuputih"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kingsusuputih"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kingsusuputih"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+### [lisensi-sela](https://github.com/kingsusuputih/lisensi-sela)
+- **Description:** A PHP project.
+- **Stars:** 0 | **Forks:** 0 | **Issues:** 0 | **Language:** PHP  
 
----
 
-### 🔥 **Fun Section**
-<p align="center">
-  <img src="https://media.tenor.com/UW8wYpA4OAYAAAAC/kaguya-sama.gif" width="250">
-  <img src="https://media.tenor.com/5LuZl5WZRewAAAAC/gojo.gif" width="250">
-  <img src="https://media.tenor.com/wU3adUmRM6sAAAAC/anime-hack.gif" width="250">
-</p>
+## GitHub Stats
 
----
+- **Public Repositories:** 3  
+- **Followers:** 6  
+- **Following:** 5  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsusuputih&show_icons=true&theme=radical)
 
-### 📈 **Visitor Counter**
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kingsusuputih&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" />
-</p>
+## Recent Activity
 
----
+- **Updated readme.md** in [kingsusuputih](https://github.com/kingsusuputih/kingsusuputih) on 2025-02-24  
+- **Updated readme.md** in [kingsusuputih](https://github.com/kingsusuputih/kingsusuputih) on 2025-02-24  
+- **Updated readme.md** in [kingsusuputih](https://github.com/kingsusuputih/kingsusuputih) on 2025-02-04  
+
+Check out more of my activity on [GitHub](https://github.com/kingsusuputih).
+
+## Latest Blog Posts
+
+Coming soon! Stay tuned for my latest thoughts and experiences.
+
+## Connect with Me
+
+{}
