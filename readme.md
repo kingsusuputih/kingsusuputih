@@ -36,7 +36,7 @@
 # 📊GitHub Stats :
 <p align="center">
   <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=kingsusuputih&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
-  <img width="49%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=kingsusuputih&theme=radical&hide_border=true" />
+  <img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kingsusuputih&theme=radical&hide_border=true" />
 </p>
 
 # 💬 Kata-Kata Hari Ini
