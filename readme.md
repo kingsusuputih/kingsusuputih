@@ -1,12 +1,3 @@
-```
-██╗    ██╗███████╗     █████╗ ██████╗ ███████╗    ████████╗██╗  ██╗███████╗    ██╗  ██╗██╗███╗   ██╗ ██████╗ 
-██║    ██║██╔════╝    ██╔══██╗██╔══██╗██╔════╝    ╚══██╔══╝██║  ██║██╔════╝    ██║ ██╔╝██║████╗  ██║██╔════╝ 
-██║ █╗ ██║█████╗      ███████║██████╔╝█████╗         ██║   ███████║█████╗      █████╔╝ ██║██╔██╗ ██║██║  ███╗
-██║███╗██║██╔══╝      ██╔══██║██╔══██╗██╔══╝         ██║   ██╔══██║██╔══╝      ██╔═██╗ ██║██║╚██╗██║██║   ██║
-╚███╔███╔╝███████╗    ██║  ██║██║  ██║███████╗       ██║   ██║  ██║███████╗    ██║  ██╗██║██║ ╚████║╚██████╔╝
- ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-```
-
 # 💫 About Me  
 <p align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%FFF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
@@ -18,11 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=kingsusuputih&style=for-the-badge&color=blue" alt="Visitor Count" />
 </p>
 <ul>
-  <li>🔥 <b>Koding Adalah Seni, Ngopi & Udud Adalah Ibadah!</b> ☕🚬</li>
-  <li>💻 <b>Fullstack Developer - Laravel, Next.js, Tailwind</b> 🚀</li>
-  <li>🏎️ <b>Pecinta Otomotif & Tobrut Enthusiast</b> 🔥</li>
-  <li>🎮 <b>Gamer & Pengabdi FPS</b> 🎯</li>
-  <li>📚 <b>Belajar Terus, Ngeluh Jangan!</b> 🤓</li>
+  <li>🌱 <b>I’m currently learning</b>: NextJs</li>
+  <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper like NextJs or ReactJs.</li>
+  <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/kingsusuputih/kingsusuputih/issues">Here</a>.</li>
+  <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
+  <li>😄 <b>Fun fact</b>: I love otomotif, night sky & PHP enthusiast.</li>
+  <li>⚡ <b>My coding activity</b>: <a href="https://github.com/kingsusuputih">Here</a>.</li>
 </ul>
 
 # 🌐Socials
