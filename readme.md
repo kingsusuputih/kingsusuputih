@@ -29,7 +29,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsusuputih&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
-# 💬 Kata-Kata Hari Ini
+# 💬 Quotes of The Day
 <p align="center">
   <img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=radical" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
