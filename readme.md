@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%FFF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Alpine.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+%7C+Alpine.js+%7C+Tailwind;Coding+24%2F7+%F0%9F%94%A5;Welcome+to+my+GitHub!" />
 </p>
 
 # 💫 About Me
