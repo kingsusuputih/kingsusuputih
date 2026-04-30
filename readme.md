@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=kingsusuputih&style=for-the-badge&color=blue" alt="Visitor Count" />
 </p>
 <ul>
-  <li>🌱 <b>I’m currently learning</b>: NextJs</li>
+  <li>🌱 <b>I’m currently learning</b>: ReactJs</li>
   <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper like NextJs or ReactJs.</li>
   <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/kingsusuputih/kingsusuputih/issues">Here</a>.</li>
   <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
